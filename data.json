@@ -1,0 +1,267 @@
+{
+    "sections": [
+        {
+            "name": "Electronics",
+            "arrow": true,
+            "innerSection": [
+                {
+                    "title": "Mobiles",
+                    "items": [
+                        {
+                            "text": "Realme",
+                            "head": false
+                        },
+                        {
+                            "text": "Samsung",
+                            "head": false
+                        },
+                        {
+                            "text": "Infinx",
+                            "head": false
+                        },
+                        {
+                            "text": "OPPO",
+                            "head": false
+                        },
+                        {
+                            "text": "Apple",
+                            "head": false
+                        },
+                        {
+                            "text": "Vivo",
+                            "head": false
+                        },
+                        {
+                            "text": "Honor",
+                            "head": false
+                        },
+                        {
+                            "text": "Asus",
+                            "head": false
+                        },
+                        {
+                            "text": "Pocox2",
+                            "head": false
+                        },
+                        {
+                            "text": "IQO0 3",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobile Accessories",
+                    "items": [
+                        {
+                            "text": "Mobile Cases",
+                            "head": false
+                        },
+                        {
+                            "text": "Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Screen Cards",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "name": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "name": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "name": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "name": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "name": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Laptops",
+                    "items": [
+                        {
+                            "name": "Gaming Laptops",
+                            "head": false
+                        },
+                        {
+                            "name": "Desktop PCs",
+                            "head": true
+                        },
+                        {
+                            "name": "Gaming & Accessories",
+                            "head": true
+                        },
+                        {
+                            "name": "Computer Accessories",
+                            "head": true
+                        },
+                        {
+                            "name": "External Hard Disks",
+                            "head": false
+                        },
+                        {
+                            "name": "Pendrives",
+                            "head": false
+                        },
+                        {
+                            "name": "Computer Peripherals",
+                            "head": false
+                        },
+                        {
+                            "name": "AMonitors",
+                            "head": false
+                        },
+                        {
+                            "name": "Tablets",
+                            "head": false
+                        },
+                        {
+                            "name": "Apple iPads",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Telivisions",
+                    "items": [
+                        {
+                            "name": "Telivisions",
+                            "head": true
+                        },
+                        {
+                            "name": "Spearkers",
+                            "head": true
+                        },
+                        {
+                            "name": "Home Theaters",
+                            "head": false
+                        },
+                        {
+                            "name": "Smart Home Automation",
+                            "head": true
+                        },
+                        {
+                            "name": "Google Nest",
+                            "head": false
+                        },
+                        {
+                            "name": "Camera",
+                            "head": true
+                        },
+                        {
+                            "name": "DSLR & Mirrorless",
+                            "head": false
+                        },
+                        {
+                            "name": "Camera Accessories",
+                            "head": true
+                        },
+                        {
+                            "name": "Lens",
+                            "head": false
+                        },
+                        {
+                            "name": "Network Components",
+                            "head": true
+                        },
+                        {
+                            "name": "Routers",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Featured",
+                    "items": [
+                        {
+                            "name": "Google Assistant Store",
+                            "head": false
+                        },
+                        {
+                            "name": "Laptops on Buyback Guarantee",
+                            "head": false
+                        },
+                        {
+                            "name": "Flipkart SmartBuy",
+                            "head": false
+                        },
+                        {
+                            "name": "Li-Polymer Power Banks",
+                            "head": false
+                        },
+                        {
+                            "name": "Sony PS4 Pro & Slim",
+                            "head": false
+                        },
+                        {
+                            "name": "Apple Products",
+                            "head": false
+                        },
+                        {
+                            "name": "Microsoft Store",
+                            "head": false
+                        },
+                        {
+                            "name": "Lenovo Phab Series",
+                            "head": false
+                        },
+                        {
+                            "name": "JBL Speakers",
+                            "head": false
+                        },
+                        {
+                            "name": "Smartphones On Buyback Guarantee",
+                            "head": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TVs & Appliances",
+            "arrow": true
+        },
+        {
+            "name": "Men",
+            "arrow": true
+        },
+        {
+            "name": "Women",
+            "arrow": true
+        },
+        {
+            "name": "Baby & Kids",
+            "arrow": true
+        },
+        {
+            "name": "Home & Furniture",
+            "arrow": true
+        },
+        {
+            "name": "Sports, Books & More",
+            "arrow": true
+        },
+        {
+            "name": "Flights",
+            "arrow": false
+        },
+        {
+            "name": "Offer Zone",
+            "arrow": false
+        }
+    ]
+}
