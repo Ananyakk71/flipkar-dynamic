@@ -12,9 +12,60 @@ export function loadTopSection(data) {
 
         sectionContainer.appendChild(section);
 
-        item.innerSection.forEach(subSection => {
-            
+        const innerSection = document.createElement("div");
+        innerSection.className = "inner-section";
+        sectionContainer.appendChild(innerSection);
+        
+
+        section.addEventListener("mouseenter", ()=> {
+            innerSection.style.display = "flex";
+            innerSection.innerHTML = ""; 
+            loadInnerSection(innerSection, item.innerSection);
+        })
+        section.addEventListener("mouseleave", () => {
+            innerSection.style.display = "none"
         })
 
     })
+    function loadInnerSection(innerSection, innerSections) {
+        innerSections.forEach(subsection => {
+            const innerCol = document.createElement("div");
+            innerCol.className = "inner-col";
+            innerSection.appendChild(innerCol);
+
+            const subsectionTitle = document.createElement("a");
+            subsectionTitle.className = "inner-head inner-title";
+            subsectionTitle.textContent = subsection.title;
+            innerCol.appendChild(subsectionTitle);
+
+            subsection.items.forEach(textItem => {
+                const subText = document.createElement("a");
+
+                subText.textContent = textItem.text; 
+            
+                if (textItem.head) {
+                    subText.className = "inner-head";
+                } else {
+                    subText.className = "inner-text";
+                }
+            
+                innerCol.appendChild(subText);
+            });
+            
+        });
+    }
+        
+
+    // data.sections.forEach(section => {
+    //     section.innerSection.forEach(subsection => {
+    //         const innerCol = document.createElement("div");
+    //         innerCol.className = "inner-col";
+    //         innerSection.appendChild(innerCol);
+    //         const firstText = document.createElement("a");
+    //         firstText.className = "inner-head inner-title";
+    //         firstText.textContent = subsection.title;
+    //         innerCol.appendChild(firstText);
+
+    //     })
+    // })
 }

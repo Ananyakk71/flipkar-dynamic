@@ -69,23 +69,23 @@
                             "head": false
                         },
                         {
-                            "name": "Smart Wearable Tech",
+                            "text": "Smart Wearable Tech",
                             "head": true
                         },
                         {
-                            "name": "Smart Watches",
+                            "text": "Smart Watches",
                             "head": false
                         },
                         {
-                            "name": "Smart Bands",
+                            "text": "Smart Bands",
                             "head": false
                         },
                         {
-                            "name": "Health Cars Appliance",
+                            "text": "Health Cars Appliance",
                             "head": true
                         },
                         {
-                            "name": "Bp Monitors",
+                            "text": "Bp Monitors",
                             "head": false
                         }
                     ]
@@ -94,43 +94,43 @@
                     "title": "Laptops",
                     "items": [
                         {
-                            "name": "Gaming Laptops",
+                            "text": "Gaming Laptops",
                             "head": false
                         },
                         {
-                            "name": "Desktop PCs",
+                            "text": "Desktop PCs",
                             "head": true
                         },
                         {
-                            "name": "Gaming & Accessories",
+                            "text": "Gaming & Accessories",
                             "head": true
                         },
                         {
-                            "name": "Computer Accessories",
+                            "text": "Computer Accessories",
                             "head": true
                         },
                         {
-                            "name": "External Hard Disks",
+                            "text": "External Hard Disks",
                             "head": false
                         },
                         {
-                            "name": "Pendrives",
+                            "text": "Pendrives",
                             "head": false
                         },
                         {
-                            "name": "Computer Peripherals",
+                            "text": "Computer Peripherals",
                             "head": false
                         },
                         {
-                            "name": "AMonitors",
+                            "text": "AMonitors",
                             "head": false
                         },
                         {
-                            "name": "Tablets",
+                            "text": "Tablets",
                             "head": false
                         },
                         {
-                            "name": "Apple iPads",
+                            "text": "Apple iPads",
                             "head": false
                         }
                     ]
@@ -139,47 +139,47 @@
                     "title": "Telivisions",
                     "items": [
                         {
-                            "name": "Telivisions",
+                            "text": "Telivisions",
                             "head": true
                         },
                         {
-                            "name": "Spearkers",
+                            "text": "Spearkers",
                             "head": true
                         },
                         {
-                            "name": "Home Theaters",
+                            "text": "Home Theaters",
                             "head": false
                         },
                         {
-                            "name": "Smart Home Automation",
+                            "text": "Smart Home Automation",
                             "head": true
                         },
                         {
-                            "name": "Google Nest",
+                            "text": "Google Nest",
                             "head": false
                         },
                         {
-                            "name": "Camera",
+                            "text": "Camera",
                             "head": true
                         },
                         {
-                            "name": "DSLR & Mirrorless",
+                            "text": "DSLR & Mirrorless",
                             "head": false
                         },
                         {
-                            "name": "Camera Accessories",
+                            "text": "Camera Accessories",
                             "head": true
                         },
                         {
-                            "name": "Lens",
+                            "text": "Lens",
                             "head": false
                         },
                         {
-                            "name": "Network Components",
+                            "text": "Network Components",
                             "head": true
                         },
                         {
-                            "name": "Routers",
+                            "text": "Routers",
                             "head": false
                         }
                     ]
@@ -188,43 +188,43 @@
                     "title": "Featured",
                     "items": [
                         {
-                            "name": "Google Assistant Store",
+                            "text": "Google Assistant Store",
                             "head": false
                         },
                         {
-                            "name": "Laptops on Buyback Guarantee",
+                            "text": "Laptops on Buyback Guarantee",
                             "head": false
                         },
                         {
-                            "name": "Flipkart SmartBuy",
+                            "text": "Flipkart SmartBuy",
                             "head": false
                         },
                         {
-                            "name": "Li-Polymer Power Banks",
+                            "text": "Li-Polymer Power Banks",
                             "head": false
                         },
                         {
-                            "name": "Sony PS4 Pro & Slim",
+                            "text": "Sony PS4 Pro & Slim",
                             "head": false
                         },
                         {
-                            "name": "Apple Products",
+                            "text": "Apple Products",
                             "head": false
                         },
                         {
-                            "name": "Microsoft Store",
+                            "text": "Microsoft Store",
                             "head": false
                         },
                         {
-                            "name": "Lenovo Phab Series",
+                            "text": "Lenovo Phab Series",
                             "head": false
                         },
                         {
-                            "name": "JBL Speakers",
+                            "text": "JBL Speakers",
                             "head": false
                         },
                         {
-                            "name": "Smartphones On Buyback Guarantee",
+                            "text": "Smartphones On Buyback Guarantee",
                             "head": false
                         }
                     ]
@@ -233,15 +233,578 @@
         },
         {
             "name": "TVs & Appliances",
-            "arrow": true
+            "arrow": true,
+            "innerSection": [
+                {
+                    "title": "Telivisions",
+                    "items": [
+                        {
+                            "text": "Telivisions",
+                            "head": true
+                        },
+                        {
+                            "text": "New Launches",
+                            "head": true
+                        },
+                        {
+                            "text": "Small & Ultra HD",
+                            "head": true
+                        },
+                        {
+                            "text": "Top Brands",
+                            "head": true
+                        },
+                        {
+                            "text": "Mi",
+                            "head": false
+                        },
+                        {
+                            "text": "Vu",
+                            "head": false
+                        },
+                        {
+                            "text": "smasung",
+                            "head": false
+                        },
+                        {
+                            "text": "Camera Accessories",
+                            "head": true
+                        },
+                        {
+                            "text": "Lens",
+                            "head": false
+                        },
+                        {
+                            "text": "Network Components",
+                            "head": true
+                        },
+                        {
+                            "text": "Routers",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Featured",
+                    "items": [
+                        {
+                            "text": "Google Assistant Store",
+                            "head": false
+                        },
+                        {
+                            "text": "Laptops on Buyback Guarantee",
+                            "head": false
+                        },
+                        {
+                            "text": "Flipkart SmartBuy",
+                            "head": false
+                        },
+                        {
+                            "text": "Li-Polymer Power Banks",
+                            "head": false
+                        },
+                        {
+                            "text": "Sony PS4 Pro & Slim",
+                            "head": false
+                        },
+                        {
+                            "text": "Apple Products",
+                            "head": false
+                        },
+                        {
+                            "text": "Microsoft Store",
+                            "head": false
+                        },
+                        {
+                            "text": "Lenovo Phab Series",
+                            "head": false
+                        },
+                        {
+                            "text": "JBL Speakers",
+                            "head": false
+                        },
+                        {
+                            "text": "Smartphones On Buyback Guarantee",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobile Accessories",
+                    "items": [
+                        {
+                            "text": "Mobile Cases",
+                            "head": false
+                        },
+                        {
+                            "text": "Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Screen Cards",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "text": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "text": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "text": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Small Home Appliance",
+                    "items": [
+                        {
+                            "text": "Irons",
+                            "head": false
+                        },
+                        {
+                            "text": "Purifier",
+                            "head": false
+                        },
+                        {
+                            "text": "fan",
+                            "head": false
+                        },
+                        {
+                            "text": "Air Cooler",
+                            "head": false
+                        },
+                        {
+                            "text": "Induction cooker",
+                            "head": false
+                        },
+                        {
+                            "text": "Top Brands",
+                            "head": true
+                        },
+                        {
+                            "text": "Philips",
+                            "head": false
+                        },
+                        {
+                            "text": "Livepure",
+                            "head": false
+                        },
+                        {
+                            "text": "Kaff",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobile Accessories",
+                    "items": [
+                        {
+                            "text": "Mobile Cases",
+                            "head": false
+                        },
+                        {
+                            "text": "Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Screen Cards",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "text": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "text": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "text": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Men",
-            "arrow": true
+            "arrow": true,
+            "innerSection":[
+                {
+                    "title": "Footwear",
+                    "items": [
+                        {
+                            "text": "Sports Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Casual Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Formal Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "text": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "text": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "text": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobile Accessories",
+                    "items": [
+                        {
+                            "text": "Mobile Cases",
+                            "head": false
+                        },
+                        {
+                            "text": "Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Screen Cards",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "text": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "text": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "text": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Winter Wear",
+                    "items": [
+                        {
+                            "text": "Sweetshirt",
+                            "head": false
+                        },
+                        {
+                            "text": "jacket",
+                            "head": false
+                        },
+                        {
+                            "text": "Sweter",
+                            "head": false
+                        },
+                        {
+                            "text": "Tracksuits",
+                            "head": false
+                        },
+                        {
+                            "text": "Ethinc wear",
+                            "head": true
+                        },
+                        {
+                            "text": "kurta",
+                            "head": false
+                        },
+                        {
+                            "text": "ethinicset",
+                            "head": false
+                        },
+                        {
+                            "text": "Dhoti",
+                            "head": false
+                        },
+                        {
+                            "text": "Raincoats & Windcheaters",
+                            "head": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Clothing",
+                    "items": [
+                        {
+                            "text": "Top wear",
+                            "head": true
+                        },
+                        {
+                            "text": "T-Shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Formal shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Casual shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Bottom wear",
+                            "head": true
+                        },
+                        {
+                            "text": "jeans",
+                            "head": false
+                        },
+                        {
+                            "text": "trouser",
+                            "head": false
+                        },
+                        {
+                            "text": "shorts",
+                            "head": false
+                        },
+                        {
+                            "text": "Suits, Blazers & Waistcoats",
+                            "head": true
+                        },
+                        {
+                            "text":"Ties,Socks,Caps & More ",
+                            "head":true
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Women",
-            "arrow": true
+            "arrow": true,
+            "innerSection":[
+                {
+                    "title": "Clothing",
+                    "items": [
+                        {
+                            "text": "Top wear",
+                            "head": true
+                        },
+                        {
+                            "text": "T-Shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Formal shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Casual shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Bottom wear",
+                            "head": true
+                        },
+                        {
+                            "text": "jeans",
+                            "head": false
+                        },
+                        {
+                            "text": "trouser",
+                            "head": false
+                        },
+                        {
+                            "text": "shorts",
+                            "head": false
+                        },
+                        {
+                            "text": "Suits, Blazers & Waistcoats",
+                            "head": true
+                        },
+                        {
+                            "text":"Ties,Socks,Caps & More ",
+                            "head":true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ethnic Wear",
+                    "items": [
+                        {
+                            "text": "Top wear",
+                            "head": true
+                        },
+                        {
+                            "text": "T-Shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Formal shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Casual shirts",
+                            "head": false
+                        },
+                        {
+                            "text": "Bottom wear",
+                            "head": true
+                        },
+                        {
+                            "text": "jeans",
+                            "head": false
+                        },
+                        {
+                            "text": "trouser",
+                            "head": false
+                        },
+                        {
+                            "text": "shorts",
+                            "head": false
+                        },
+                        {
+                            "text": "Suits, Blazers & Waistcoats",
+                            "head": true
+                        },
+                        {
+                            "text":"Ties,Socks,Caps & More ",
+                            "head":true
+                        }
+                    ]
+                },
+                {
+                    "title": "Footwear",
+                    "items": [
+                        {
+                            "text": "Sports Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Casual Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Formal Shoes",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Headphone",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Wearable Tech",
+                            "head": true
+                        },
+                        {
+                            "text": "Smart Watches",
+                            "head": false
+                        },
+                        {
+                            "text": "Smart Bands",
+                            "head": false
+                        },
+                        {
+                            "text": "Health Cars Appliance",
+                            "head": true
+                        },
+                        {
+                            "text": "Bp Monitors",
+                            "head": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Winter Wear",
+                    "items": [
+                        {
+                            "text": "Sweetshirt",
+                            "head": false
+                        },
+                        {
+                            "text": "jacket",
+                            "head": false
+                        },
+                        {
+                            "text": "Sweter",
+                            "head": false
+                        },
+                        {
+                            "text": "Tracksuits",
+                            "head": false
+                        },
+                        {
+                            "text": "Ethinc wear",
+                            "head": true
+                        },
+                        {
+                            "text": "kurta",
+                            "head": false
+                        },
+                        {
+                            "text": "ethinicset",
+                            "head": false
+                        },
+                        {
+                            "text": "Dhoti",
+                            "head": false
+                        },
+                        {
+                            "text": "Raincoats & Windcheaters",
+                            "head": true
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Baby & Kids",
