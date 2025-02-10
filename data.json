@@ -457,7 +457,7 @@
         {
             "name": "Men",
             "arrow": true,
-            "innerSection":[
+            "innerSection": [
                 {
                     "title": "Footwear",
                     "items": [
@@ -621,8 +621,8 @@
                             "head": true
                         },
                         {
-                            "text":"Ties,Socks,Caps & More ",
-                            "head":true
+                            "text": "Ties,Socks,Caps & More ",
+                            "head": true
                         }
                     ]
                 }
@@ -631,7 +631,7 @@
         {
             "name": "Women",
             "arrow": true,
-            "innerSection":[
+            "innerSection": [
                 {
                     "title": "Clothing",
                     "items": [
@@ -672,8 +672,8 @@
                             "head": true
                         },
                         {
-                            "text":"Ties,Socks,Caps & More ",
-                            "head":true
+                            "text": "Ties,Socks,Caps & More ",
+                            "head": true
                         }
                     ]
                 },
@@ -717,8 +717,8 @@
                             "head": true
                         },
                         {
-                            "text":"Ties,Socks,Caps & More ",
-                            "head":true
+                            "text": "Ties,Socks,Caps & More ",
+                            "head": true
                         }
                     ]
                 },
@@ -826,5 +826,407 @@
             "name": "Offer Zone",
             "arrow": false
         }
-    ]
+    ],
+    "mainSection": {
+        "rightTop": [
+            {
+                "text": "Home"
+            },
+            {
+                "text": "Mobiles & Accessories"
+            },
+            {
+                "text": "Mobiles"
+            }
+        ],
+        "options": [
+            {
+                "text": "Sort by",
+                "selected": false
+            },
+            {
+                "text": "Relevance",
+                "selected": true
+            },
+            {
+                "text": "Popularity",
+                "selected": false
+            },
+            {
+                "text": "Price -- Low to High",
+                "selected": false
+            },
+            {
+                "text": "Price -- High to Low",
+                "selected": false
+            },
+            {
+                "text": "Newest First",
+                "selected": false
+            }
+        ],
+        "mobiles": [
+            {
+                "id": "apple",
+                "image": "assets/imgs/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg",
+                "name": "Apple iPhone 13 (Midnight, 128 GB)",
+                "rating": "4.6",
+                "reviews": "2,87,274 Ratings & 3,760 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "12MP + 12MP | 12MP Front Camera",
+                    "A15 Bionic Chip Processor",
+                    "1 year warranty for phone and accessories"
+                ],
+                "price": "₹45,199",
+                "changePrice": "₹49,900",
+                "discount": "9%",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹28,500",
+                "freeDelivery": true
+            },
+            {
+                "id": "apple",
+                "image": "assets/imgs/-original-imaghx9qkugtbfrn.jpeg",
+                "name": "Apple iPhone 14 (Starlight, 256 GB)",
+                "rating": "4.6",
+                "reviews": "3,09,743 Ratings & 11,663 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "12MP + 12MP | 12MP Front Camera",
+                    "A15 Bionic Chip Processor",
+                    "1 year warranty for phone and accessories"
+                ],
+                "price": "₹63,999",
+                "changePrice": "₹69,900",
+                "discount": "8%",
+                "freeDelivery": false
+            },
+            {
+                "id": "apple",
+                "image": "assets/imgs/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg",
+                "name": "Apple iPhone 13 (Starlight, 128 GB)",
+                "rating": "4.6",
+                "reviews": "3,09,743 Ratings & 13,760 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "12MP + 12MP | 12MP Front Camera",
+                    "A15 Bionic Chip Processor",
+                    "1 year warranty for phone and accessories"
+                ],
+                "price": "₹45,499",
+                "changePrice": "₹49,900",
+                "discount": "8%",
+                "freeDelivery": false
+            },
+            {
+                "id": "apple",
+                "image": "assets/imgs/-original-imagtc5fuzkvczr7.jpeg",
+                "name": "Apple iPhone 15 (Pink, 128 GB)",
+                "rating": "4.6",
+                "reviews": "40,793 Ratings & 2,319 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "17.02 cm (6.7 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip Processor",
+                    "1 year warranty for phone and 1 year warranty for in Box Accessories."
+                ],
+                "price": "₹66,999",
+                "changePrice": "₹79,900",
+                "discount": "9%",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹39,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "apple",
+                "image": "assets/imgs/-original-imagtc5fqyz8tu4c.jpeg",
+                "name": "Apple iPhone 15 (Green, 128 GB)",
+                "rating": "4.6",
+                "reviews": "40,793 Ratings & 2,319 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "17.02 cm (6.7 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip Processor",
+                    "1 year warranty for phone and 1 year warranty for in Box Accessories."
+                ],
+                "price": "₹66,999",
+                "changePrice": "₹79,900",
+                "discount": "9%",
+                "save": "Save extra with combo offers",
+                "freeDelivery": true
+            },
+            {
+                "id": "samsung",
+                "name": "SAMSUNG Galaxy S24 FE 5G (Blue, 128 GB)",
+                "image": "assets/imgs/-original-imah8gbdgznjf2nz.jpeg",
+                "rating": "4.5",
+                "reviews": "302 Ratings & 29 Reviews",
+                "details": [
+                  "8 GB RAM | 128 GB ROM",
+                  "17.02 cm (6.7 inch) Full HD+ Display",
+                  "50MP + 12MP | 10MP Front Camera",
+                  "4700 mAh Battery",
+                  "Exynos 2400e Processor",
+                  "1 Year Warranty"
+                ],
+                "price": "₹44,999",
+                "oldPrice": "₹59,900",
+                "discount": "25%",
+                "offer": "Bank Offer",
+                "freeDelivery": true
+              },
+              {
+                "id": "samsung",
+                "image": "assets/imgs/-original-imah8pdna7nzdqxg.jpeg",
+                "name": "SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 256 GB)",
+                "rating": "4.6",
+                "reviews": "40,793 Ratings & 2,319 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "17.53 cm (6.9 inch) Quad HD+ Display",
+                    "200MP + 50MP + 50MP + 10MP | 12MP Front Camera",
+                    "5000 mAh Battery",
+                    "8 Elite for Galaxy Processor",
+                    "1 year warranty for phone and 1 year warranty for in Box Accessories."
+                ],
+                "price": "₹1,29,999",
+                "discount": "9%",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹52,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "samsung",
+                "image": "assets/imgs/-original-imah8pdgwdu5b2hz.jpeg",
+                "name": "SAMSUNG Galaxy S25 Ultra 5G (Silver Shadaw, 256 GB)",
+                "rating": "4.6",
+                "reviews": "40,793 Ratings & 2,319 Reviews",
+                "details": [
+                    "128 GB ROM",
+                    "17.53 cm (6.9 inch) Full HD+ Display",
+                    "200MP + 50MP + 50MP + 10MP | 12MP Front Camera",
+                    "5000 mAh Battery",
+                    "8 Elite for Galaxy Processor",
+                    "1 year warranty for phone and 1 year warranty for in Box Accessories."
+                ],
+                "price": "₹1,29,999",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹49,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "samsung",
+                "name": "SAMSUNG Galaxy S24 FE 5G (Mint, 256 GB)",
+                "image": "assets/imgs/-original-imagtc5fuzkvczr7.jpeg",
+                "rating": "4.6",
+                "reviews": "387 Ratings & 49 Reviews",
+                "details": [
+                  "12 GB RAM | 256 GB ROM",
+                  "15.75 cm (6.7 inch) Full HD+ Display",
+                  "50MP + 12MP | 10MP Front Camera",
+                  "4700 mAh Battery",
+                  "Exynos 2400e Processor",
+                  "1 Year Warranty"
+                ],
+                "price": "₹80,999",
+                "offer": "Bank Offer",
+                "offerAmount": "₹49,150",
+                "freeDelivery": true
+              },
+              {
+                "id": "google",
+                "image": "assets/imgs/pixel-7a-ghl1x-google-original-imah3j74pte7amu9.jpeg",
+                "name": "Google Pixel 7a (Sea, 128 GB)",
+                "rating": "4.6",
+                "reviews": "25,274 Ratings & 2,760 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "15.49 cm (6.1 inch) Full HD + Display",
+                    "64MP (OIS) + 13MP | 13MP Front Camera",
+                    "4300 mAh Battery",
+                    "Tensor G2 Processor",
+                    "1 Year Handset and 6 Months Accessories"
+                ],
+                "price": "₹31,199",
+                "changePrice": "₹43,900",
+                "discount": "27%",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹20,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "google",
+                "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
+                "name": "Google Pixel 8a (Obsidan, 128 GB)",
+                "rating": "4.6",
+                "reviews": "2,611 Ratings & 245 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "15.49 cm (6.1 inch) Full HD + Display",
+                    "64MP + 13MP | 13MP Front Camera",
+                    "4404 mAh Battery",
+                    "Tensor G2 Processor",
+                    "1 Year Handset and 6 Months Accessories"
+                ],
+                "price": "₹37,199",
+                "changePrice": "₹52,900",
+                "discount": "28%",
+                "save": "Hot Deal",
+                "offerAmount": "₹20,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "google",
+                "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
+                "name": "Google Pixel 9 Pro XL (Obsidan, 512 GB)",
+                "rating": "4.6",
+                "reviews": "603 Ratings & 55 Reviews",
+                "details": [
+                    "16 GB RAM | 512 GB ROM",
+                    "17.27 cm (6.8 inch) Display",
+                    "64MP + 13MP | 13MP Front Camera",
+                    "4404 mAh Battery",
+                    "Tensor G2 Processor",
+                    "1 Year Handset and 6 Months Accessories"
+                ],
+                "price": "₹1,39,999",
+                "save": "Lowest price since launch",
+                "offerAmount": "₹38,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "google",
+                "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
+                "name": "Google Pixel 8(Obsidan, 128 GB)",
+                "rating": "4.4",
+                "reviews": "2,611 Ratings & 245 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "15.75 cm (6.2 inch) Full HD+ Display",
+                    "50MP + 12MP | 10.5MP Front Camera",
+                    "4575 mAh Battery",
+                    "Tensor G3 Processor",
+                    "1 Year Handset and 6 Months Accessories"
+                ],
+                "price": "₹37,199",
+                "changePrice": "₹52,900",
+                "discount": "28%",
+                "save": "Hot Deal",
+                "offerAmount": "₹20,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "google",
+                "image": "assets/imgs/pixel-7a-ghl1x-google-original-imah3j74pte7amu9.jpeg",
+                "name": "Google Pixel 7 (Lemongrass, 128 GB)",
+                "rating": "4.3",
+                "reviews": "17,927 Ratings & 1,994 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "16.0 cm (6.3 inch) Full HD+ Display",
+                    "64MP (OIS) + 13MP | 13MP Front Camera",
+                    "4300 mAh Battery",
+                    "1 Year warranty"
+                ],
+                "price": "₹31,199",
+                "changePrice": "₹43,900",
+                "discount": "27%",
+                "save": "Save extra with combo offers",
+                "offerAmount": "₹20,150",
+                "freeDelivery": true
+            },
+            {
+                "id": "motorola",
+                "image": "assets/imgs/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.jpeg",
+                "name": "Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",
+                "rating": "4.4",
+                "reviews": "1,11,490 Ratings & 7,728 Reviews",
+                "details": [
+                    "12 GB RAM | 256 GB ROM",
+                    "17.02 cm (6.7 inch) Full HD+ Display",
+                    "50MP + 13MP | 32MP Front Camera",
+                    "5000 mAh Battery",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹22,999",
+                "changePrice": "₹27,999",
+                "discount": "17%",
+                "save": "Lowest price since launch",
+                "offerAmount": "₹15,500",
+                "freeDelivery": true
+            },
+            {
+                "id": "motorola",
+                "image": "assets/imgs/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg",
+                "name": "Motorola Edge 50 Fusion (Hot Pink, 256 GB)",
+                "rating": "4.4",
+                "reviews": "1,11,490 Ratings & 7,728 Reviews",
+                "details": [
+                    "12 GB RAM | 256 GB ROM",
+                    "17.02 cm (6.7 inch) Full HD+ Display",
+                    "50MP + 13MP | 32MP Front Camera",
+                    "5000 mAh Battery",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹22,999",
+                "changePrice": "₹27,999",
+                "discount": "17%",
+                "save": "Lowest price since launch",
+                "offerAmount": "₹15,500",
+                "freeDelivery": true
+            },
+            {
+                "id": "motorola",
+                "image": "assets/imgs/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.webp",
+                "name": "Motorola Edge 50 Fusion (Hot Pink, 128 GB)",
+                "rating": "4.5",
+                "reviews": "96,857 Ratings & 6,267 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "17.02 cm (6.7 inch) Full HD+ Display",
+                    "50MP + 13MP | 32MP Front Camera",
+                    "5000 mAh Battery",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹20,999",
+                "changePrice": "₹25,999",
+                "discount": "19%",
+                "save": "Lowest price since launch",
+                "offerAmount": "₹13,500",
+                "freeDelivery": true
+            },
+            {
+                "id": "motorola",
+                "image": "assets/imgs/edge-50-fusion-pb300000in-motorola-original-imahywzztyktktpp.jpeg",
+                "name": "Motorola Edge 50 Fusion (Forest Blue, 128 GB)",
+                "rating": "4.5",
+                "reviews": "96,857 Ratings & 6,267 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "17.02 cm (6.7 inch) Full HD+ Display",
+                    "50MP + 13MP | 32MP Front Camera",
+                    "5000 mAh Battery",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹20,999",
+                "changePrice": "₹25,999",
+                "discount": "19%",
+                "save": "Lowest price since launch",
+                "offerAmount": "₹13,500",
+                "freeDelivery": true
+            }
+        ]
+    }
 }
+
+
+
+
+
+
