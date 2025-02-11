@@ -55,17 +55,4 @@ export function loadTopSection(data) {
         });
     }
         
-
-    // data.sections.forEach(section => {
-    //     section.innerSection.forEach(subsection => {
-    //         const innerCol = document.createElement("div");
-    //         innerCol.className = "inner-col";
-    //         innerSection.appendChild(innerCol);
-    //         const firstText = document.createElement("a");
-    //         firstText.className = "inner-head inner-title";
-    //         firstText.textContent = subsection.title;
-    //         innerCol.appendChild(firstText);
-
-    //     })
-    // })
 }

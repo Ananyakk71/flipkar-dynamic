@@ -867,7 +867,7 @@
         ],
         "mobiles": [
             {
-                "id": "apple",
+                "id": "Apple",
                 "image": "assets/imgs/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg",
                 "name": "Apple iPhone 13 (Midnight, 128 GB)",
                 "rating": "4.6",
@@ -887,7 +887,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "apple",
+                "id": "Apple",
                 "image": "assets/imgs/-original-imaghx9qkugtbfrn.jpeg",
                 "name": "Apple iPhone 14 (Starlight, 256 GB)",
                 "rating": "4.6",
@@ -905,7 +905,7 @@
                 "freeDelivery": false
             },
             {
-                "id": "apple",
+                "id": "Apple",
                 "image": "assets/imgs/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg",
                 "name": "Apple iPhone 13 (Starlight, 128 GB)",
                 "rating": "4.6",
@@ -923,7 +923,7 @@
                 "freeDelivery": false
             },
             {
-                "id": "apple",
+                "id": "Apple",
                 "image": "assets/imgs/-original-imagtc5fuzkvczr7.jpeg",
                 "name": "Apple iPhone 15 (Pink, 128 GB)",
                 "rating": "4.6",
@@ -943,7 +943,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "apple",
+                "id": "Apple",
                 "image": "assets/imgs/-original-imagtc5fqyz8tu4c.jpeg",
                 "name": "Apple iPhone 15 (Green, 128 GB)",
                 "rating": "4.6",
@@ -962,7 +962,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "samsung",
+                "id": "SAMSUNG",
                 "name": "SAMSUNG Galaxy S24 FE 5G (Blue, 128 GB)",
                 "image": "assets/imgs/-original-imah8gbdgznjf2nz.jpeg",
                 "rating": "4.5",
@@ -982,7 +982,7 @@
                 "freeDelivery": true
               },
               {
-                "id": "samsung",
+                "id": "SAMSUNG",
                 "image": "assets/imgs/-original-imah8pdna7nzdqxg.jpeg",
                 "name": "SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 256 GB)",
                 "rating": "4.6",
@@ -1002,7 +1002,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "samsung",
+                "id": "SAMSUNG",
                 "image": "assets/imgs/-original-imah8pdgwdu5b2hz.jpeg",
                 "name": "SAMSUNG Galaxy S25 Ultra 5G (Silver Shadaw, 256 GB)",
                 "rating": "4.6",
@@ -1021,7 +1021,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "samsung",
+                "id": "SAMSUNG",
                 "name": "SAMSUNG Galaxy S24 FE 5G (Mint, 256 GB)",
                 "image": "assets/imgs/-original-imagtc5fuzkvczr7.jpeg",
                 "rating": "4.6",
@@ -1040,7 +1040,7 @@
                 "freeDelivery": true
               },
               {
-                "id": "google",
+                "id": "Google",
                 "image": "assets/imgs/pixel-7a-ghl1x-google-original-imah3j74pte7amu9.jpeg",
                 "name": "Google Pixel 7a (Sea, 128 GB)",
                 "rating": "4.6",
@@ -1061,7 +1061,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "google",
+                "id": "Google",
                 "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
                 "name": "Google Pixel 8a (Obsidan, 128 GB)",
                 "rating": "4.6",
@@ -1082,7 +1082,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "google",
+                "id": "Google",
                 "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
                 "name": "Google Pixel 9 Pro XL (Obsidan, 512 GB)",
                 "rating": "4.6",
@@ -1101,7 +1101,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "google",
+                "id": "Google",
                 "image": "assets/imgs/pixel-8a-ga04432-in-google-original-imahyn3mqzdbzywg.jpeg",
                 "name": "Google Pixel 8(Obsidan, 128 GB)",
                 "rating": "4.4",
@@ -1122,7 +1122,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "google",
+                "id": "Google",
                 "image": "assets/imgs/pixel-7a-ghl1x-google-original-imah3j74pte7amu9.jpeg",
                 "name": "Google Pixel 7 (Lemongrass, 128 GB)",
                 "rating": "4.3",
@@ -1142,7 +1142,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "motorola",
+                "id": "MOTOROLA",
                 "image": "assets/imgs/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.jpeg",
                 "name": "Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",
                 "rating": "4.4",
@@ -1162,7 +1162,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "motorola",
+                "id": "MOTOROLA",
                 "image": "assets/imgs/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg",
                 "name": "Motorola Edge 50 Fusion (Hot Pink, 256 GB)",
                 "rating": "4.4",
@@ -1182,7 +1182,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "motorola",
+                "id": "MOTOROLA",
                 "image": "assets/imgs/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.webp",
                 "name": "Motorola Edge 50 Fusion (Hot Pink, 128 GB)",
                 "rating": "4.5",
@@ -1202,7 +1202,7 @@
                 "freeDelivery": true
             },
             {
-                "id": "motorola",
+                "id": "MOTOROLA",
                 "image": "assets/imgs/edge-50-fusion-pb300000in-motorola-original-imahywzztyktktpp.jpeg",
                 "name": "Motorola Edge 50 Fusion (Forest Blue, 128 GB)",
                 "rating": "4.5",
@@ -1220,9 +1220,244 @@
                 "save": "Lowest price since launch",
                 "offerAmount": "₹13,500",
                 "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/t3-lite-5g-v2356-vivo-original-imah27wmfgkergtx.jpeg",
+                "name": "vivo T3 Lite 5G (Vibrant Green, 128 GB)",
+                "rating": "4.4",
+                "reviews": "78,490 Ratings & 2,728 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.66 cm (6.56 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹11,999",
+                "changePrice": "₹15,999",
+                "discount": "25%",
+                "save": "Lowest price since launch",
+                "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/-original-imahyytukhkky5ew.jpeg",
+                "name": "vivo T3 X 5G (Crimson Bliss, 128 GB)",
+                "rating": "4.5",
+                "reviews": "1,38,490 Ratings & 4,728 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.66 cm (6.71 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "6000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹11,999",
+                "changePrice": "₹15,999",
+                "discount": "25%",
+                "save": "Lowest price since launch",
+                "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/-original-imah4kxes2ktzf9f.jpeg",
+                "name": "vivo T3 X 5G (Sapphire Blue, 128 GB)",
+                "rating": "4.5",
+                "reviews": "1,38,490 Ratings & 4,728 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.66 cm (6.71 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "6000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹11,999",
+                "changePrice": "₹15,999",
+                "discount": "25%",
+                "save": "Lowest price since launch",
+                "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/t3-lite-5g-v2356-vivo-original-imah27wmfgkergtx.jpeg",
+                "name": "vivo T3 Lite 5G (Vibrant Green, 128 GB)",
+                "rating": "4.4",
+                "reviews": "53,490 Ratings & 1,728 Reviews",
+                "details": [
+                    "4 GB RAM | 128 GB ROM",
+                    "16.66 cm (6.56 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹10,999",
+                "changePrice": "₹14,999",
+                "discount": "27%",
+                "save": "Lowest price since launch",
+                "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/t3-lite-5g-v2356-vivo-original-imah27wmfgkergtx.jpeg",
+                "name": "vivo T3 X 5G (Celestial Green, 128 GB)",
+                "rating": "4.5",
+                "reviews": "78,490 Ratings & 2,728 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.66 cm (6.56 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹13,999",
+                "changePrice": "₹18,999",
+                "discount": "26%",
+                "save": "Lowest price since launch",
+                "offerAmount":"₹8,450",
+                "freeDelivery": true
+            },
+            {
+                "id": "vivo",
+                "image": "assets/imgs/-original-imahyytukhkky5ew.jpeg",
+                "name": "vivo T3 X 5G (Crimson Bliss, 128 GB)",
+                "rating": "4.4",
+                "reviews": "48,490 Ratings & 1,728 Reviews",
+                "details": [
+                    "4 GB RAM | 128 GB ROM",
+                    "17.66 cm (6.71 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "6000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "₹12,999",
+                "changePrice": "₹17,999",
+                "discount": "28%",
+                "save": "Lowest price since launch",
+                "offerAmount":"₹8,650",
+                "freeDelivery": true
+            },
+            {
+                "id": "OPPO",
+                "image": "assets/imgs/-original-imah37gwn2xbvzhy.jpeg",
+                "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 128 GB)",
+                "rating": "4.5",
+                "reviews": "1,29,490 Ratings & 4,678 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.94 cm (6.67 inch) Display",
+                    "32MP + 2MP | 8MP Front Camera",
+                    "5100 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "₹12,999",
+                "changePrice": "₹16,999",
+                "discount": "23%",
+                "save": "Save extra with combo offers",
+                "offerAmount":"₹7,400",
+                "freeDelivery": true
+            },
+            {
+                "id": "OPPO",
+                "image": "assets/imgs/-original-imah37gw2wv2ayrf.jpeg",
+                "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 128 GB)",
+                "rating": "4.5",
+                "reviews": "1,29,490 Ratings & 4,678 Reviews",
+                "details": [
+                    "6 GB RAM | 128 GB ROM",
+                    "16.94 cm (6.67 inch) Display",
+                    "32MP + 2MP | 8MP Front Camera",
+                    "5100 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "₹12,999",
+                "changePrice": "₹16,999",
+                "discount": "23%",
+                "save": "Save extra with combo offers",
+                "offerAmount":"₹7,400",
+                "freeDelivery": true
+            },
+            {
+                "id": "OPPO",
+                "image": "assets/imgs/-original-imah89yzwcfgufhv.jpeg",
+                "name": "OPPO Reno13 5G (Luminous Blue, 256 GB)",
+                "rating": "4.5",
+                "reviews": "1,190 Ratings & 178 Reviews",
+                "details": [
+                    "8 GB RAM | 256 GB ROM",
+                    "16.74 cm (6.59 inch) Display",
+                    "50MP + 8MP + 2MP | 50MP Front Camera",
+                    "5600 mAh Battery",
+                    "Dimensity 8350 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "₹39,999",
+                "changePrice": "₹43,999",
+                "discount": "9%",
+                "save": "Bank Offer",
+                "offerAmount":"₹27,700",
+                "freeDelivery": true
+            },
+            {
+                "id": "OPPO",
+                "image": "assets/imgs/-original-imah89yzwcfgufhv.jpeg",
+                "name": "OPPO Reno13 5G (Luminous Blue, 128 GB)",
+                "rating": "4.4",
+                "reviews": "1,490 Ratings & 153 Reviews",
+                "details": [
+                    "8 GB RAM | 128 GB ROM",
+                    "16.74 cm (6.59 inch) Display",
+                    "50MP + 8MP + 2MP | 50MP Front Camera",
+                    "5600 mAh Battery",
+                    "Dimensity 8350 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "₹37,199",
+                "changePrice": "₹14,999",
+                "discount": "9%",
+                "save": "Bank Offer",
+                "offerAmount":"₹26,650",
+                "freeDelivery": true
+            },
+            {
+                "id": "OPPO",
+                "image": "assets/imgs/-original-imah89yzwcfgufhv.jpeg",
+                "name": "OPPO A3X 5G (Starlight White, 128 GB",
+                "rating": "4.2",
+                "reviews": "1,569 Ratings & 68 Reviews",
+                "details": [
+                    "4 GB RAM | 128 GB ROM",
+                    "16.94 cm (6.67 inch) Display",
+                    " 8MP Rear Camera | 50MP Front Camera",
+                    "5100 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "₹12,499",
+                "changePrice": "₹15,999",
+                "discount": "21%",
+                "save": "Save extra with combo offers",
+                "offerAmount":"₹85,650",
+                "freeDelivery": true
             }
         ]
-    }
+    },
+    "brands":[
+        "Apple",
+        "SAMSUNG",
+        "Google",
+        "MOTOROLA",
+        "vivo",
+        "OPPO"
+    ]
 }
 
 

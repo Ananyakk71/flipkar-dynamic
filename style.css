@@ -717,3 +717,94 @@ a, img{
 .offer-2{
     display: inline-flex;
 }
+footer {
+    background-color: #172337;
+    min-width: 978px;
+    border-top: 1px solid #ddd;
+    margin-top: 25px;
+}
+
+.foot {
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.row {
+    display: flex;
+    flex-flow: row-wrap;
+    margin-left: 65px;
+    width: 90%;
+    padding-top: 40px;
+}
+
+.foot-col {
+    flex: 1;
+}
+.col-head {
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.col-nav {
+    line-height: 2;
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+}
+.col-nav:hover{
+    text-decoration: underline;
+}
+.mail {
+    font-size: 12px;
+    white-space: nowrap;
+    border-left: 1px solid #454d5e;
+    padding: 0 25px;
+}
+.mail-addrs {
+    font-style: normal;
+    color: #fff;
+    background-color: #172337;
+    margin-bottom: 16px;
+}
+.foot-medias {
+    height: 24px;
+    width: 24px;
+    display: flex;
+    align-items: center;
+}
+.media {
+    padding: 2px;
+    color: #fff;
+    margin-right: 16px;
+}
+.office-addrs {
+    margin-bottom: 10px;
+    padding-left: 14px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.mail-addrs a{
+    color: #2874f0;
+}
+.bottom-foot {
+    border-top: 1px solid #454d5e;
+    padding: 25px 0;
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+}
+.bottom-text {
+    color: #fff;
+    margin-left: 8px;
+}
+.year {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+}
